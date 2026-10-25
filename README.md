@@ -1,13 +1,17 @@
 
-<!-- NYSSA LEILANI CALISTA | CRIMSON NEON -->
+<!--
+  NYSSA LEILANI CALISTA
+  NEON CRIMSON • DEVELOPER VIBES
+  BLACK × DEEP RED × CRIMSON
+-->
 
 <div align="center">
 
-<!-- HEADER: BLACK TO DEEP CRIMSON -->
+<!-- =============== HEADER =============== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,20:10060A,45:260711,70:48091A,100:100509&height=270&section=header&text=GITHUB%20PROFILE&fontSize=37&fontColor=FFF5F6&fontAlignY=35&desc=NYSSA%20LEILANI%20CALISTA&descSize=22&descAlignY=56&descColor=E7A0AD&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,20:10060A,45:260711,70:48091A,100:100509&height=250&section=header&text=GITHUB%20PROFILE&fontSize=37&fontColor=FFF5F6&fontAlignY=34&desc=NYSSA%20LEILANI%20CALISTA&descSize=22&descAlignY=56&descColor=C96B7D&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=C96B7D&center=true&vCenter=true&width=650&lines=%3E+Informatics+Management+Student;%3E+Universitas+Negeri+Surabaya;%3E+Learning+to+code+%7C+Building+my+future" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=C96B7D&center=true&vCenter=true&width=650&lines=%3E+Informatics+Management+Student;%3E+Universitas+Negeri+Surabaya;%3E+Learning+to+code%2C+building+my+future;%3E+Powered+by+curiosity+and+coffee" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -35,35 +39,38 @@
 
 ---
 
+<!-- =============== ABOUT ME =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; ABOUT ME</h2>
-
-<i>A student, a curious mind, and a work in progress.</i>
-
-<br/><br/>
+<h2>♡ &nbsp; WHO AM I? &nbsp; ♡</h2>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING-260711?style=flat-square&labelColor=10090C"/>
 <img src="https://img.shields.io/badge/MODE-CREATIVE-3A0B17?style=flat-square&labelColor=10090C"/>
+
+<br/><br/>
+
+<i>A student with big dreams and a keyboard full of possibilities.</i>
 
 </div>
 
 ```yaml
 name: Nyssa Leilani Calista
+role: Informatics Management Student
 university: Universitas Negeri Surabaya
-major: Informatics Management
-country: Indonesia
+location: Indonesia
 
 interests:
   - Programming and technology
-  - Digital creativity
+  - Creative digital projects
   - Problem solving
   - Learning new things
 
 currently:
-  - Exploring programming
+  - Exploring the world of coding
   - Developing technical skills
-  - Learning through projects
+  - Learning through practice
+  - Building projects one step at a time
 
 motto: "Stay curious. Keep building."
 ```
@@ -71,14 +78,16 @@ motto: "Stay curious. Keep building."
 - 🎓 Informatics Management student at **Universitas Negeri Surabaya**.
 - 💻 Exploring programming and digital technology.
 - 🧠 Interested in creative ideas and problem solving.
-- 🚀 Learning step by step and building skills along the way.
-- ☕ Powered by curiosity and a little bit of caffeine.
+- 🚀 Slowly turning ideas into real projects.
+- ☕ Powered by curiosity, persistence, and probably coffee.
 
 ---
 
+<!-- =============== GITHUB STATS =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; GITHUB STATS</h2>
+<h2>⚡ GITHUB STATS</h2>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=nyssaleilani&show_icons=true&hide_border=true&bg_color=10090C&title_color=C96B7D&text_color=F0E5E8&icon_color=AD4058&ring_color=70152A&include_all_commits=true" alt="GitHub Statistics"/>
 
@@ -92,16 +101,22 @@ motto: "Stay curious. Keep building."
 
 ---
 
+<!-- =============== DEVELOPER CORNER =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; DEVELOPER CORNER</h2>
+<h2>💻 MY DEVELOPER CORNER</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode&theme=dark&perline=5" alt="Developer Tools"/>
+<i>Currently loading developer skills...</i>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode&theme=dark&perline=5" alt="Developer Toolkit"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/01_LEARN-260711?style=for-the-badge&labelColor=10090C" alt="Learn"/>
-<img src="https://img.shields.io/badge/02_BUILD-48091A?style=for-the-badge&labelColor=10090C" alt="Build"/>
+<img src="https://img.shields.io/badge/02_EXPERIMENT-48091A?style=for-the-badge&labelColor=10090C" alt="Experiment"/>
 <img src="https://img.shields.io/badge/03_LEVEL_UP-641326?style=for-the-badge&labelColor=10090C" alt="Level Up"/>
 
 <br/><br/>
@@ -112,9 +127,13 @@ motto: "Stay curious. Keep building."
 
 ---
 
+<!-- =============== CURRENT QUEST =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; CURRENT QUEST</h2>
+<h2>🕹️ CURRENT QUEST</h2>
+
+<i>Loading side quests... main quest still in progress.</i>
 
 </div>
 
@@ -124,39 +143,63 @@ motto: "Stay curious. Keep building."
 | `02` | Explore new technologies |
 | `03` | Build small projects |
 | `04` | Solve real problems |
-| `05` | Keep getting better |
+| `05` | Level up my skills |
 
 ---
 
+<!-- =============== DEVELOPER MINDSET =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; DEVELOPER MINDSET</h2>
+<h2>🌌 DEVELOPER MINDSET</h2>
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08080B,35:1A080F,70:390918,100:100509&height=135&section=header&text=THINK.%20CODE.%20REPEAT.&fontSize=25&fontColor=FFF5F6&fontAlignY=40&desc=Progress%20over%20perfection.&descSize=14&descAlignY=67&descColor=C96B7D"/>
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08080B,35:1A080F,70:390918,100:100509&height=130&section=header&text=THINK.%20CODE.%20REPEAT.&fontSize=25&fontColor=FFF5F6&fontAlignY=40&desc=Progress%20over%20perfection.&descSize=14&descAlignY=68&descColor=C96B7D"/>
 
 <br/><br/>
 
 <i>Not perfect. Just improving every day.</i>
 
+<br/>
+
+**Think. Code. Break things. Learn. Repeat.**
+
 </div>
 
 ---
 
+<!-- =============== CONNECT =============== -->
+
 <div align="center">
 
-<h2>⌘ &nbsp; CONNECT</h2>
+<h2>♡ &nbsp; LET'S CONNECT &nbsp; ♡</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=C96B7D&center=true&vCenter=true&width=520&lines=Hey+you!+Thanks+for+visiting+%3C3;Warning%3A+May+contain+random+bugs;%F0%9F%90%9B+Bugs+are+just+surprise+features;%E2%98%95+Fueled+by+coffee+and+dreams" alt="Funny typing animation"/>
+
+<br/><br/>
 
 <a href="https://github.com/nyssaleilani">
-<img src="https://img.shields.io/badge/GITHUB-VISIT%20MY%20PROFILE-641326?style=for-the-badge&logo=github&logoColor=FFF5F6&labelColor=10090C" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/COME%20SAY%20HI-LET'S%20CODE-641326?style=for-the-badge&logo=github&logoColor=FFF5F6&labelColor=10090C" alt="Let's connect on GitHub"/>
 </a>
 
 <br/><br/>
 
-<code>Thanks for stopping by!</code>
+<img src="https://img.shields.io/badge/STATUS-STILL%20DEBUGGING%20MY%20LIFE-3A0B17?style=flat-square&labelColor=10090C" alt="Still debugging my life"/>
 
-<br/>
+<br/><br/>
 
-<i>See you in the next commit.</i>
+### 💌 A little note for you
+
+Thanks for scrolling all the way down here!
+
+**🖤 Made with love, coffee & questionable code. ☕**
+
+🐛 Bugs are just surprise features... right?
+
+✨ Stay cute, stay curious, and don't forget to save your work!
+
+<br/><br/>
+
+<code>try { beAwesome(); } catch (life) { drinkCoffee(); }</code>
 
 <br/><br/>
 
@@ -164,10 +207,18 @@ motto: "Stay curious. Keep building."
 
 <br/><br/>
 
-<sub>NYSSA LEILANI CALISTA · UNIVERSITAS NEGERI SURABAYA</sub>
+<sub>♡ NYSSA LEILANI CALISTA ♡</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,25:10060A,55:390918,80:48091A,100:050507&height=150&section=footer&text=KEEP%20BUILDING&fontSize=24&fontColor=FFF5F6&fontAlignY=52&desc=ONE%20COMMIT%20AT%20A%20TIME&descSize=12&descAlignY=73&descColor=C96B7D"/>
+<sub>© Made with ♡, a little chaos, and lots of code.</sub>
+
+<br/>
+
+<sub>If something breaks... it was probably a feature. 😭</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,25:10060A,55:390918,80:48091A,100:050507&height=155&section=footer&text=LOVE%20%2B%20CODE%20%3D%20ME&fontSize=23&fontColor=FFF5F6&fontAlignY=48&desc=KEEP%20CODING%2C%20KEEP%20SMILING%20%E2%99%A5&descSize=12&descAlignY=72&descColor=C96B7D"/>
 
 </div>
