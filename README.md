@@ -1,15 +1,15 @@
 
 <!--
   NYSSA LEILANI CALISTA
-  MIDNIGHT CRIMSON LIGHTNING • DEVELOPER VIBES
-  BLACK × DEEP CRIMSON × SOFT PINK GLOW
+  MIDNIGHT CRIMSON • DEVELOPER VIBES
+  BLACK × BURGUNDY × CRIMSON × DUSTY ROSE
 -->
 
 <div align="center">
 
 <!-- =============== HEADER =============== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,20:10060A,45:260711,70:641326,100:100509&height=250&section=header&text=GITHUB%20PROFILE&fontSize=37&fontColor=FFF5F6&fontAlignY=34&desc=NYSSA%20LEILANI%20CALISTA&descSize=22&descAlignY=56&descColor=D8758C&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08070A,25:190810,50:4A1024,75:761B35,100:100509&height=250&section=header&text=GITHUB%20PROFILE&fontSize=37&fontColor=FFF5F6&fontAlignY=34&desc=NYSSA%20LEILANI%20CALISTA&descSize=22&descAlignY=56&descColor=D8758C&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=D8758C&center=true&vCenter=true&width=650&lines=%3E+Informatics+Management+Student;%3E+Universitas+Negeri+Surabaya;%3E+Learning+to+code%2C+building+my+future;%3E+Powered+by+curiosity+and+coffee" alt="Typing animation"/>
 
@@ -24,16 +24,16 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/UNIVERSITAS%20NEGERI%20SURABAYA-260711?style=for-the-badge&labelColor=10090C" alt="Universitas Negeri Surabaya"/>
+<img src="https://img.shields.io/badge/UNIVERSITAS%20NEGERI%20SURABAYA-260914?style=for-the-badge&labelColor=10090C" alt="Universitas Negeri Surabaya"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/INFORMATICS%20MANAGEMENT-3A0B17?style=flat-square&labelColor=10090C" alt="Major"/>
-<img src="https://img.shields.io/badge/INDONESIA-3A0B17?style=flat-square&labelColor=10090C" alt="Location"/>
+<img src="https://img.shields.io/badge/INFORMATICS%20MANAGEMENT-3A1420?style=flat-square&labelColor=10090C" alt="Major"/>
+<img src="https://img.shields.io/badge/INDONESIA-3A1420?style=flat-square&labelColor=10090C" alt="Location"/>
 
 <br/><br/>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,55:9E3C58,70:641326,100:100509&height=4&section=header"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,65:761B35,100:100509&height=3&section=header"/>
 
 </div>
 
@@ -45,8 +45,8 @@
 
 <h2>♡ &nbsp; WHO AM I? &nbsp; ♡</h2>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-260711?style=flat-square&labelColor=10090C"/>
-<img src="https://img.shields.io/badge/MODE-CREATIVE-3A0B17?style=flat-square&labelColor=10090C"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-3A1420?style=flat-square&labelColor=10090C"/>
+<img src="https://img.shields.io/badge/MODE-CREATIVE-3A1420?style=flat-square&labelColor=10090C"/>
 
 <br/><br/>
 
@@ -89,13 +89,13 @@ motto: "Stay curious. Keep building."
 
 <h2>⚡ GITHUB STATS</h2>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nyssaleilani&show_icons=true&hide_border=true&bg_color=10090C&title_color=D8758C&text_color=F0E5E8&icon_color=AD4058&ring_color=70152A&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nyssaleilani&show_icons=true&hide_border=true&bg_color=10090C&title_color=D8758C&text_color=F0E5E8&icon_color=9E3C58&ring_color=761B35&include_all_commits=true" alt="GitHub Statistics"/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyssaleilani&layout=compact&hide_border=true&bg_color=10090C&title_color=D8758C&text_color=F0E5E8&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=nyssaleilani&hide_border=true&background=10090C&stroke=390918&ring=D8758C&fire=AD4058&currStreakNum=FFF5F6&sideNums=F0E5E8&currStreakLabel=D8758C&sideLabels=C17A89&dates=928087" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=nyssaleilani&hide_border=true&background=10090C&stroke=390918&ring=D8758C&fire=9E3C58&currStreakNum=FFF5F6&sideNums=F0E5E8&currStreakLabel=D8758C&sideLabels=C17A89&dates=928087" alt="GitHub Streak"/>
 
 </div>
 
@@ -115,8 +115,8 @@ motto: "Stay curious. Keep building."
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01_LEARN-260711?style=for-the-badge&labelColor=10090C" alt="Learn"/>
-<img src="https://img.shields.io/badge/02_EXPERIMENT-48091A?style=for-the-badge&labelColor=10090C" alt="Experiment"/>
+<img src="https://img.shields.io/badge/01_LEARN-3A1420?style=for-the-badge&labelColor=10090C" alt="Learn"/>
+<img src="https://img.shields.io/badge/02_EXPERIMENT-3A1420?style=for-the-badge&labelColor=10090C" alt="Experiment"/>
 <img src="https://img.shields.io/badge/03_LEVEL_UP-641326?style=for-the-badge&labelColor=10090C" alt="Level Up"/>
 
 <br/><br/>
@@ -183,7 +183,7 @@ motto: "Stay curious. Keep building."
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-STILL%20DEBUGGING%20MY%20LIFE-3A0B17?style=flat-square&labelColor=10090C" alt="Still debugging my life"/>
+<img src="https://img.shields.io/badge/STATUS-STILL%20DEBUGGING%20MY%20LIFE-3A1420?style=flat-square&labelColor=10090C" alt="Still debugging my life"/>
 
 <br/><br/>
 
@@ -203,7 +203,7 @@ Thanks for scrolling all the way down here!
 
 <br/><br/>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,55:9E3C58,70:641326,100:100509&height=4&section=header"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,65:761B35,100:100509&height=3&section=header"/>
 
 <br/><br/>
 
@@ -215,6 +215,6 @@ Thanks for scrolling all the way down here!
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,20:10060A,45:260711,70:641326,100:100509&height=155&section=footer&text=LOVE%20%2B%20CODE%20%3D%20ME&fontSize=23&fontColor=FFF5F6&fontAlignY=48&desc=KEEP%20CODING%2C%20KEEP%20SMILING%20%E2%99%A5&descSize=12&descAlignY=72&descColor=D8758C&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08070A,25:190810,50:4A1024,75:761B35,100:100509&height=155&section=footer&text=LOVE%20%2B%20CODE%20%3D%20ME&fontSize=23&fontColor=FFF5F6&fontAlignY=48&desc=KEEP%20CODING%2C%20KEEP%20SMILING%20%E2%99%A5&descSize=12&descAlignY=72&descColor=D8758C&animation=fadeIn"/>
 
 </div>
