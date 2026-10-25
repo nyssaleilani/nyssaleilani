@@ -1,118 +1,108 @@
 
-<!--
-  NYSSA LEILANI CALISTA
-  NEON CRIMSON • CYBER NIGHT
-  BLACK / NEON RED / ELECTRIC VIOLET
--->
+<!-- NYSSA LEILANI CALISTA | CRIMSON NEON -->
 
 <div align="center">
 
-<!-- NEON HEADER -->
+<!-- HEADER: BLACK TO DEEP CRIMSON -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,25:190A16,55:3B0B24,80:240D32,100:09090F&height=230&section=header&text=GITHUB%20PROFILE&fontSize=34&fontColor=FFEDF4&fontAlignY=34&desc=NYSSA%20LEILANI%20CALISTA&descSize=21&descAlignY=55&descColor=FF4D79&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,20:10060A,45:260711,70:48091A,100:100509&height=270&section=header&text=GITHUB%20PROFILE&fontSize=37&fontColor=FFF5F6&fontAlignY=35&desc=NYSSA%20LEILANI%20CALISTA&descSize=22&descAlignY=56&descColor=E7A0AD&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=FF527F&center=true&vCenter=true&width=650&lines=%3E+Informatics+Management+Student;%3E+Universitas+Negeri+Surabaya;%3E+Learning+to+code%2C+creating+my+own+path;%3E+Powered+by+curiosity+and+coffee" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=C96B7D&center=true&vCenter=true&width=650&lines=%3E+Informatics+Management+Student;%3E+Universitas+Negeri+Surabaya;%3E+Learning+to+code+%7C+Building+my+future" alt="Typing animation"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nyssaleilani&style=for-the-badge&color=F52D65&label=PROFILE+VIEWS&labelColor=101018" alt="Profile Views"/>
+<a href="https://github.com/nyssaleilani">
+<img src="https://komarev.com/ghpvc/?username=nyssaleilani&style=for-the-badge&color=641326&label=PROFILE+VIEWS&labelColor=10090C" alt="Profile Views"/>
+</a>
 <a href="https://github.com/nyssaleilani?tab=followers">
-<img src="https://img.shields.io/github/followers/nyssaleilani?style=for-the-badge&color=8D3BFF&label=FOLLOWERS&labelColor=101018" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/nyssaleilani?style=for-the-badge&color=641326&label=FOLLOWERS&labelColor=10090C" alt="Followers"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎓%20UNIVERSITAS-NEGERI%20SURABAYA-241027?style=for-the-badge&labelColor=101018" alt="University"/>
+<img src="https://img.shields.io/badge/UNIVERSITAS%20NEGERI%20SURABAYA-260711?style=for-the-badge&labelColor=10090C" alt="Universitas Negeri Surabaya"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/💻%20MAJOR-INFORMATICS%20MANAGEMENT-4A1537?style=flat-square&labelColor=101018" alt="Major"/>
-<img src="https://img.shields.io/badge/📍%20INDONESIA-ONLINE-32144C?style=flat-square&labelColor=101018" alt="Location"/>
+<img src="https://img.shields.io/badge/INFORMATICS%20MANAGEMENT-3A0B17?style=flat-square&labelColor=10090C" alt="Major"/>
+<img src="https://img.shields.io/badge/INDONESIA-3A0B17?style=flat-square&labelColor=10090C" alt="Location"/>
 
 <br/><br/>
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF285D,50:8D3BFF,100:FF285D&height=3&section=header"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,65:70152A,100:100509&height=3&section=header"/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-
 <div align="center">
 
-<h2>🖤 WHO AM I?</h2>
+<h2>⌘ &nbsp; ABOUT ME</h2>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20MODE-241027?style=flat-square&labelColor=101018"/>
-<img src="https://img.shields.io/badge/MINDSET-CURIOUS%20ALWAYS-32144C?style=flat-square&labelColor=101018"/>
+<i>A student, a curious mind, and a work in progress.</i>
 
 <br/><br/>
 
-<i>Just a student with big dreams and a keyboard full of possibilities.</i>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-260711?style=flat-square&labelColor=10090C"/>
+<img src="https://img.shields.io/badge/MODE-CREATIVE-3A0B17?style=flat-square&labelColor=10090C"/>
 
 </div>
 
-<br/>
-
-```yaml id="cyber01"
+```yaml
 name: Nyssa Leilani Calista
-role: Informatics Management Student
-campus: Universitas Negeri Surabaya
-location: Indonesia
+university: Universitas Negeri Surabaya
+major: Informatics Management
+country: Indonesia
 
 interests:
   - Programming and technology
-  - Creative digital projects
+  - Digital creativity
+  - Problem solving
   - Learning new things
-  - Turning ideas into reality
 
 currently:
-  - Exploring the world of coding
-  - Building my technical skills
-  - Growing one commit at a time
+  - Exploring programming
+  - Developing technical skills
+  - Learning through projects
 
-motto: "Stay curious. Keep creating."
+motto: "Stay curious. Keep building."
 ```
 
 - 🎓 Informatics Management student at **Universitas Negeri Surabaya**.
-- 💻 Exploring programming, software, and digital technology.
-- 🎮 Enjoying the process of learning, experimenting, and creating.
-- 🚀 Slowly turning ideas into real projects.
-- ☕ Powered by curiosity, persistence, and probably coffee.
+- 💻 Exploring programming and digital technology.
+- 🧠 Interested in creative ideas and problem solving.
+- 🚀 Learning step by step and building skills along the way.
+- ☕ Powered by curiosity and a little bit of caffeine.
 
 ---
 
-<!-- GITHUB STATS -->
-
 <div align="center">
 
-<h2>⚡ GITHUB STATS</h2>
+<h2>⌘ &nbsp; GITHUB STATS</h2>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nyssaleilani&show_icons=true&hide_border=true&bg_color=101018&title_color=FF527F&text_color=F0E8F5&icon_color=BD66FF&ring_color=FF285D&include_all_commits=true" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nyssaleilani&show_icons=true&hide_border=true&bg_color=10090C&title_color=C96B7D&text_color=F0E5E8&icon_color=AD4058&ring_color=70152A&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyssaleilani&layout=compact&hide_border=true&bg_color=101018&title_color=FF527F&text_color=F0E8F5&langs_count=8" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyssaleilani&layout=compact&hide_border=true&bg_color=10090C&title_color=C96B7D&text_color=F0E5E8&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=nyssaleilani&hide_border=true&background=101018&stroke=32144C&ring=FF527F&fire=BD66FF&currStreakNum=FFFFFF&sideNums=F0E8F5&currStreakLabel=FF527F&sideLabels=BD91D8&dates=93859A" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=nyssaleilani&hide_border=true&background=10090C&stroke=390918&ring=C96B7D&fire=AD4058&currStreakNum=FFF5F6&sideNums=F0E5E8&currStreakLabel=C96B7D&sideLabels=C17A89&dates=928087" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-
 <div align="center">
 
-<h2>💻 MY DEVELOPER CORNER</h2>
+<h2>⌘ &nbsp; DEVELOPER CORNER</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode&theme=dark&perline=5" alt="Developer Toolkit"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode&theme=dark&perline=5" alt="Developer Tools"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-LEARN-241027?style=for-the-badge&labelColor=101018" alt="Learn"/>
-<img src="https://img.shields.io/badge/02-EXPERIMENT-4A1537?style=for-the-badge&labelColor=101018" alt="Experiment"/>
-<img src="https://img.shields.io/badge/03-BUILD-32144C?style=for-the-badge&labelColor=101018" alt="Build"/>
+<img src="https://img.shields.io/badge/01_LEARN-260711?style=for-the-badge&labelColor=10090C" alt="Learn"/>
+<img src="https://img.shields.io/badge/02_BUILD-48091A?style=for-the-badge&labelColor=10090C" alt="Build"/>
+<img src="https://img.shields.io/badge/03_LEVEL_UP-641326?style=for-the-badge&labelColor=10090C" alt="Level Up"/>
 
 <br/><br/>
 
@@ -122,56 +112,47 @@ motto: "Stay curious. Keep creating."
 
 ---
 
-<!-- MY JOURNEY -->
-
 <div align="center">
 
-<h2>🕹️ CURRENT QUEST</h2>
+<h2>⌘ &nbsp; CURRENT QUEST</h2>
 
 </div>
 
-| Quest | Mission |
-|:---|:---|
-| `01 / LEARN` | Strengthen my programming fundamentals |
-| `02 / EXPLORE` | Discover tools and technologies |
-| `03 / BUILD` | Create projects and learn by doing |
-| `04 / LEVEL UP` | Improve with every new challenge |
+| LEVEL | MISSION |
+|:---:|:---|
+| `01` | Master the fundamentals |
+| `02` | Explore new technologies |
+| `03` | Build small projects |
+| `04` | Solve real problems |
+| `05` | Keep getting better |
 
 ---
 
-<!-- MINDSET -->
-
 <div align="center">
 
-<h2>🌌 MY DEVELOPER MINDSET</h2>
+<h2>⌘ &nbsp; DEVELOPER MINDSET</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:101018,50:30102A,100:21103D&height=130&section=header&text=MAKE%20IT%20WORK.&fontSize=25&fontColor=FFEDF4&fontAlignY=38&desc=MAKE%20IT%20BETTER.&descSize=17&descAlignY=67&descColor=FF527F"/>
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08080B,35:1A080F,70:390918,100:100509&height=135&section=header&text=THINK.%20CODE.%20REPEAT.&fontSize=25&fontColor=FFF5F6&fontAlignY=40&desc=Progress%20over%20perfection.&descSize=14&descAlignY=67&descColor=C96B7D"/>
 
 <br/><br/>
 
-<i>Not perfect, just getting better every day.</i>
-
-<br/>
-
-**Think. Code. Break things. Learn. Repeat.**
+<i>Not perfect. Just improving every day.</i>
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-
 <div align="center">
 
-<h2>👾 FIND ME ON GITHUB</h2>
+<h2>⌘ &nbsp; CONNECT</h2>
 
 <a href="https://github.com/nyssaleilani">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-nyssaleilani-FF285D?style=for-the-badge&logo=github&logoColor=white&labelColor=101018" alt="Connect on GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-VISIT%20MY%20PROFILE-641326?style=for-the-badge&logo=github&logoColor=FFF5F6&labelColor=10090C" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-<code>Thanks for visiting my profile!</code>
+<code>Thanks for stopping by!</code>
 
 <br/>
 
@@ -179,7 +160,7 @@ motto: "Stay curious. Keep creating."
 
 <br/><br/>
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF285D,50:8D3BFF,100:FF285D&height=3&section=header"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100509,30:390918,65:70152A,100:100509&height=3&section=header"/>
 
 <br/><br/>
 
@@ -187,6 +168,6 @@ motto: "Stay curious. Keep creating."
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:240D32,70:3B0B24,100:09090F&height=150&section=footer&text=KEEP%20CODING&fontSize=24&fontColor=FFEDF4&fontAlignY=55&desc=YOUR%20NEXT%20LEVEL%20IS%20WAITING&descSize=12&descAlignY=75&descColor=FF527F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,25:10060A,55:390918,80:48091A,100:050507&height=150&section=footer&text=KEEP%20BUILDING&fontSize=24&fontColor=FFF5F6&fontAlignY=52&desc=ONE%20COMMIT%20AT%20A%20TIME&descSize=12&descAlignY=73&descColor=C96B7D"/>
 
 </div>
